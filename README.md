@@ -8,23 +8,17 @@ Local translations welcome, just add a folder here for your own language.
 
 - [We are part of EU Code Week" badges](https://github.com/codeeu/codeeu-resources/tree/master/_badges)
 
+European Commission's Press Releases in 22 languages:
 
-CodeWeek 2015 returns from the 10th — 18th October 2015
+- [Massively expanded EU Code Week 11 – 17 October 2014](http://europa.eu/rapid/press-release_IP-14-1117_en.htm)
+- [Save the date: EU Code Week 11-17 October 2014. Bring your ideas to life with #coding](http://europa.eu/rapid/press-release_IP-14-652_en.htm)
+- [Make 2014 the summer you learn how to code! ](http://europa.eu/rapid/press-release_IP-14-882_en.htm)
 
-
-Main press release for 2014:
+Initial press release:
 
 - [Europe Code Week Returns from October 11 to 17, 2014](https://github.com/codeeu/codeeu-resources/blob/master/Europe_Code_Week_2014-press_release_ENG.md)
 
-European Commission's Press Release in 22 languages from 2014:
-
-- [Save the date: EU Code Week 11-17 October 2014. Bring your ideas to life with #coding](http://europa.eu/rapid/press-release_IP-14-652_en.htm)
-
-Promotional video:
+Promotional videos:
 
 - [CODING IS FUN: join @CodeWeekEU](https://www.youtube.com/watch?v=TNwE3FA4pdI)
-
-
-
-
-
+- [Learn how to code with EU Code Week TV spot](https://www.youtube.com/watch?v=ibutkt23h6A)
